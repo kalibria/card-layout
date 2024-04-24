@@ -5,7 +5,7 @@ type ButtonPropsType = {
 }
 
 export const Button =({text}: ButtonPropsType) => {
-  return <StyledButton onClick={() => console.log("hello")}>{text}</StyledButton>
+  return <StyledButton>{text}</StyledButton>
 }
 
 

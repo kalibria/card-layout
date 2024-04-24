@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import {Button} from '../button/Button';
-import {CardDescription} from '../CadrDescription/CardDescription';
+import {CardDescription} from '../сadrDescription/CardDescription';
 import {CardTitle} from '../cardTitle/CardTitle';
 import {Image} from '../image/Image';
 import cardImg1 from '../../assets/imgs/img1.png'
